@@ -3,6 +3,7 @@
     font-family: 'Courier New', Courier, monospace
 }
 
-#uebersicht {
+.links {
     font-weight: bold;
+    font-size: 25px;
 }
