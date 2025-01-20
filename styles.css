@@ -3,6 +3,16 @@
     font-family: 'Courier New', Courier, monospace
 }
 
+.hauptüberschrift, .links {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.hauptüberschrift {
+    background-color: wheat;
+}
+
 .links {
     font-weight: bold;
     font-size: 25px;
